@@ -1,0 +1,1 @@
+az webapp ssh -n laravelgoto -g ayunur-tsel-ResourceGroup -i e3848c4a19ed5120ac06e6c4552adf58a74475463871a23ea40c8f269e489576
